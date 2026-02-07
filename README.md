@@ -1,21 +1,16 @@
 
 # Hi! I'm Aroosa
-
  Computer Science Student | Aspiring Software Engineer  
-
-📚 My Goals:  
+**MY GOALS**   
 - Build real projects
 - Enhance my skills
-- 
-🔧 Tech Skills :  
+  **TECH SkILLS**  
 - C++ (loops, functions, OOP basics)  
 - Python (basics: loops, functions, lists, dictionaries)  
-   
-📌 Current Focus:  
+  **CURRENT FOCUS**
 - Mini projects  
 - Problem solving  
 - Web development  
-
 📫 Connect with me:  
-- GitHub: https://github.com/Aroosa-Jabeen
+- GitHub: https://github.com/Aroos -Jabeen
   
