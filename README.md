@@ -1,6 +1,6 @@
 
 # Hi! I'm Aroosa
- Computer Science Student | Aspiring Software Engineer  
+ Computer Science Student | Aspiring Data Scientist  
 **MY GOALS**   
 - Build real projects
 - Enhance my skills
