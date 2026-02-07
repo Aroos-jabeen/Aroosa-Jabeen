@@ -12,5 +12,5 @@
 - Problem solving  
 - Web development  
 📫 Connect with me:  
-- GitHub: https://github.com/Aroos -Jabeen
+- GitHub: 
   
